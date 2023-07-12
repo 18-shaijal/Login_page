@@ -1,2 +1,2 @@
-# Login_page
+# Registration_form
 It is a simple HTML project
